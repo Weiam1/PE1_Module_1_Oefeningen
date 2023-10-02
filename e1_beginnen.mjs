@@ -1,4 +1,6 @@
-// Voeg hier je eigen code in
+let name='Weiam';
+let age='22';
+let favoriteGame='Pubg';
 
 
 
