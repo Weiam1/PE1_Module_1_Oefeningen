@@ -12,4 +12,9 @@
 
 // console.log('je resultaat is '+ (num1 + num2))
 // process.exit();
-let 
+let getal1=33;
+let getal2=4;
+console.log(`de som van de getallen is ` + getal1+getal2);
+console.log(`het verschil van de getallen is ` + getal1-getal2);
+console.log(`de product van de getallen is ` + getal1*getal2);
+console.log(`de deling van de getallen is ` + getal1/getal2);
