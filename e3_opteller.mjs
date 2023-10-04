@@ -1,20 +1,52 @@
-// // Begin van userInput voorbereiden
+
 // import * as readline from 'node:readline/promises';
 // import{stdin as input, stdout as output} from 'node:process';
 // const userInput = readline.createInterface({input, output});
-// // Einde van userInput voorbereiden
 
 
 
-// let num1=parseFloat(await userInput.question('Geef een getal in:'));
+// let taal= await userInput.question('Welke taal spreekt u ?');
 
-// let num2=parseFloat(await userInput.question('Geef een andere  getal in:'));
+// if (taal==='NL'){
+//     console.log('Welkom!');
+// }else if(taal==='EN'){
+//     console.log('welcom!');
+// }else if(taal==='FR'){
+//     console.log('Bienvenue!');
+// }else{
+//     console.log('ERROR!');
+// };
 
-// console.log('je resultaat is '+ (num1 + num2))
 // process.exit();
-let getal1=33;
-let getal2=4;
-console.log(`de som van de getallen is ` + getal1+getal2);
-console.log(`het verschil van de getallen is ` + getal1-getal2);
-console.log(`de product van de getallen is ` + getal1*getal2);
-console.log(`de deling van de getallen is ` + getal1/getal2);
+
+
+
+
+
+
+
+
+// import * as readline from 'node:readline/promises';
+// import{stdin as input, stdout as output} from 'node:process';
+// const userInput = readline.createInterface({input, output});
+
+// let tvReeds= await userInput.question('Over welke tv series wilt u vragen?');
+
+// switch(tvReeds){
+//     case 'The Simpsons' :
+// console.log( tvReeds+ ' vindt plaats in springfield');
+// break;
+// case 'friends':
+//     console.log(  tvReeds+ ' vindt plaats in Newyork');
+//     break;
+//     default:
+//         console.log('Sorry, ik weet niet waar '+ tvReeds+ 'zich afspeelt')
+
+// }
+// process.exit();
+
+
+
+
+
+
